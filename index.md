@@ -7,7 +7,7 @@
 Una fundación cuya naturaleza es de carácter privado, no lucrativa, apolítica no
 partidista, con fines de proyección social y asistencia humanitaria.
 
-# Manifiesto
+# [Manifiesto](manifesto)
 
 - La ética debe regirse en la academia y praxis
 - Fomentar la investigación nos permite tener un análisis crítico de
