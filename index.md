@@ -1,5 +1,14 @@
+---
+layout: home
+title: "Fundación Oxlajuj N'oj"
+landing-title: "Fundación Oxlajuj N'oj"
+description: null
+image: null
+author: null
+show_tile: false
+---
 
-# Fundación Oxlajuj N'oj
+# ¡Bienvenido!
 
 
 

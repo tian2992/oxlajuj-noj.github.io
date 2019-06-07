@@ -1,3 +1,7 @@
+---
+layout: post
+title: Manifesto
+---
 # Manifesto
 
 ## La ética debe regirse en la academia y praxis

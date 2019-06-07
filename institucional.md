@@ -1,4 +1,11 @@
- 
+---
+layout: post
+title: Quienes Somos
+description: Lorem ipsum dolor est
+image: uploads/IMG_8341.jpg
+nav-menu: true
+---
+
 # ¿Quiénes somos?
 Una fundación cuya naturaleza es de carácter privado, no lucrativa, apolítica no
 partidista, con fines de proyección social y asistencia humanitaria.
